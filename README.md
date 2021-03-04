@@ -18,6 +18,8 @@ Now Iam happy that completed this challenge using jetpack compose. It was super 
 <!-- You can add more screenshots here if you like -->
 <img src="/results/screenshot_1.png" width="260">&emsp;<img src="/results/screenshot_2.png" width="260">
 
+<img src="/results/screenshot_dark_1.png" width="260">&emsp;<img src="/results/screenshot_dark_2.png" width="260">
+
 ## License
 ```
 Copyright 2020 The Android Open Source Project
@@ -33,4 +35,4 @@ distributed under the License is distributed on an "AS IS" BASIS,
 WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
 See the License for the specific language governing permissions and
 limitations under the License.
-```
+````
